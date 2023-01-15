@@ -17,7 +17,7 @@ body {
   color: hsl(218, 44%, 22%);
   background-color: hsl(212, 45%, 89%);
 
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
